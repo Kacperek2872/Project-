@@ -39,7 +39,7 @@ button {
 }
 #Clickerdemo {
     margin-top: 90px;
-    margin-bottom: 90px;
+    margin-bottom: 70px;
 }
 .btn1::after, .btn1::before{
     content: "";
@@ -124,10 +124,10 @@ button {
 .btn3:hover::after {
     transform: rotate(150deg);
 }
-
-
-
-
-
-
+#Clickerdemo2 {
+    margin-bottom: 70px;
+}
+#Clickerdemo3 {
+    margin-bottom: 70px;
+}
 
