@@ -17,3 +17,5 @@ btn.addEventListener ("click",function(){
 });
 paragraf2.style.display = 'none';
 //Wrzucić wszystko w funkcję i powielić o argument 
+
+
